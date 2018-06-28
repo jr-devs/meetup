@@ -16,6 +16,7 @@ Jr Devs has the following rules to help make us realize our goal.
 1) Welcome (5 mins)
 2) Learn (15 mins)
    - [Lightning Talk Overview](https://github.com/SeanMcP/meetup/blob/master/docs/lightning-talks.md)
+   - [Topic Ideas](https://github.com/SeanMcP/meetup/blob/master/docs/talk-topics.md)
 3) Share (20 mins)
    - [Overview](https://github.com/SeanMcP/meetup/blob/master/docs/share.md)
 4) Connect (20 mins)
