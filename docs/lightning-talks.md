@@ -37,4 +37,4 @@ Hands-on practice is the best way to learn a new concept or topic. If possible, 
 Send them to one of the playgrounds above and give them a task to complete. Or provide a working example and have them make an adjustment or refactor a solution. The better and more meaningful an interaction with a new idea, the better the student's learning will be.
 
 ## Ideas
-If you're interested in giving a lightning talk but need an idea, check out this [list of potential topics](https://github.com/SeanMcP/meetup/blob/master/docs/talk-topics.md).
+If you're interested in giving a lightning talk but need an idea, check out this [list of potential topics](talk-topics.md).
