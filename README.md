@@ -12,11 +12,11 @@ Jr Devs has the following rules to help make us realize our goal.
 3) Be helpful
     - Come looking for ways you can help other people with their code, projects, network, or whatever
 
-
 ## Schedule
-1) Learn (20 mins)
-   - [Lightning Talks Overview](https://github.com/SeanMcP/meetup/blob/master/docs/lightning-talks.md)
-2) Share (20 mins)
+1) Welcome (5 mins)
+2) Learn (15 mins)
+   - [Lightning Talk Overview](https://github.com/SeanMcP/meetup/blob/master/docs/lightning-talks.md)
+3) Share (20 mins)
    - [Overview](https://github.com/SeanMcP/meetup/blob/master/docs/share.md)
-3) Connect (20 mins)
+4) Connect (20 mins)
    - [Overview](https://github.com/SeanMcP/meetup/blob/master/docs/connect.md)
