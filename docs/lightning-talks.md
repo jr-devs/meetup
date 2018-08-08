@@ -28,6 +28,8 @@ Online playgrounds are perfect ways to demonstrate a new technology. Checkout th
 - [JSFiddle](https://jsfiddle.net/): HTML, CSS, JavaScript
 - [CodeSandbox](https://codesandbox.io/): React, Angular, Vue
 - [Code Playground](https://code.sololearn.com/#py): Python, Java, C++, C, C#, Ruby, PHP
+- [Repl.it](https://repl.it/)
+- [Dillinger](https://dillinger.io/): Markdown
 
 Have other suggestions for online playgrounds? [Send a pull request](https://github.com/jr-devs/meetup/pull/new/master) and add to this list. 👍
 
