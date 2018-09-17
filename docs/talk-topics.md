@@ -9,15 +9,17 @@ Listed alphabetically:
 - Browser dev tools
 - Data scraping
 - Deploying a project
-- Git
 - Hosting a project
 - How to write a developer resume
 - Java
+- Jupyter notebook
 - Responsive design
 - Shell scripting
 - Single-page applications
 - Python
+- Web design essentials
 
 ## Completed topics
 Listed reverse-chronologically:
+- ~~Git - July 2018~~
 - ~~CSS Animations - June 2018~~
