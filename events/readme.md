@@ -7,7 +7,7 @@ Follow the following format when adding a new `event.md`:
 
 Notes
 
-## Talks
+## Talk
 
 **Speaker name**, job title
 
