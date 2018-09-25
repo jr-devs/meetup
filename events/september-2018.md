@@ -8,10 +8,4 @@ Notes
 
 "Design Crashcourse for Developers"
 
- - Presentation link
- - Example link
- - Practice link
- 
- Further reading:
- 
- - [Link](https://example.com)
+ - [Presentation (InVision)](https://tsys.invisionapp.com/boards/PT34SRBQ69U)
